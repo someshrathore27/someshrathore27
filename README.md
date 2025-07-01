@@ -33,28 +33,48 @@
 
 ## 🏆 Coding Profiles
 
-### 🔥 LeetCode Stats
+## 🧠 LeetCode Stats
 
-| Difficulty | Solved | Total | Progress |
-|------------|--------|-------|----------|
-| Easy       | 90     | 883   | ![Easy](https://progress-bar.dev/10/?width=200&title=Easy&color=4CAF50) |
-| Medium     | 45     | 1872  | ![Medium](https://progress-bar.dev/2.4/?width=200&title=Medium&color=FFC107) |
-| Hard       | 9      | 846   | ![Hard](https://progress-bar.dev/1.1/?width=200&title=Hard&color=F44336) |
+👤 [Visit my LeetCode profile](https://leetcode.com/__sr27__/)
+
+| Difficulty | Solved | Total | Badge |
+|------------|--------|-------|--------|
+| Easy       | 106    | 883   | <img src="https://img.shields.io/badge/Easy-106%2F883-4CAF50?style=flat&logo=leetcode&logoColor=black" /> |
+| Medium     | 223    | 1872  | <img src="https://img.shields.io/badge/Medium-223%2F1872-FFC107?style=flat&logo=leetcode&logoColor=black" /> |
+| Hard       | 40     | 846   | <img src="https://img.shields.io/badge/Hard-40%2F846-F44336?style=flat&logo=leetcode&logoColor=black" /> |
+
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/__sr27__?theme=dark&font=ABeeZee&ext=heatmap" width="70%" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/__sr27__/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-### 🧑‍💻 GeeksforGeeks Stats
+## 🧑‍💻 GeeksforGeeks Stats
 
-| Category | Solved | Total | Progress |
-|----------|--------|-------|----------|
-| School   | 120    | 150   | ![School](https://progress-bar.dev/80/?width=200&title=School&color=2196F3) |
-| Basic    | 85     | 120   | ![Basic](https://progress-bar.dev/71/?width=200&title=Basic&color=9C27B0) |
-| Easy     | 65     | 180   | ![Easy](https://progress-bar.dev/36/?width=200&title=Easy&color=4CAF50) |
-| Medium   | 30     | 210   | ![Medium](https://progress-bar.dev/14/?width=200&title=Medium&color=FFC107) |
-| Hard     | 12     | 95    | ![Hard](https://progress-bar.dev/13/?width=200&title=Hard&color=F44336) |
+👤 [Visit my GFG profile](https://auth.geeksforgeeks.org/user/someshramzcc)
+
+| Category | Solved | Total | Badge |
+|----------|--------|-------|--------|
+| School   | 120    | 150   | <img src="https://img.shields.io/badge/School-120%2F150-2196F3?style=flat&logo=geeksforgeeks&logoColor=white" /> |
+| Basic    | 85     | 120   | <img src="https://img.shields.io/badge/Basic-85%2F120-9C27B0?style=flat&logo=geeksforgeeks&logoColor=white" /> |
+| Easy     | 65     | 180   | <img src="https://img.shields.io/badge/Easy-65%2F180-4CAF50?style=flat&logo=geeksforgeeks&logoColor=white" /> |
+| Medium   | 30     | 210   | <img src="https://img.shields.io/badge/Medium-30%2F210-FFC107?style=flat&logo=geeksforgeeks&logoColor=white" /> |
+| Hard     | 12     | 95    | <img src="https://img.shields.io/badge/Hard-12%2F95-F44336?style=flat&logo=geeksforgeeks&logoColor=white" /> |
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/someshramzcc">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 ---
 
