@@ -55,6 +55,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🧑‍💻 GeeksforGeeks Stats
 
 👤 [Visit my GFG profile](https://auth.geeksforgeeks.org/user/someshramzcc)
